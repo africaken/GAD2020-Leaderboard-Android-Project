@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333333</color>
+    <color name="colorPrimaryDark">#343434</color>
+    <color name="colorAccent">@color/pluralsight_orange</color>
+    <color name="pluralsight_orange">#F05A2B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorText">#4B0082</color>
+    <color name="colorTitle">#008080</color>
+    <color name="wheat">#FFFACD</color>
+    <color name="mint_cream">#F5FFFA</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="card_color">#E4E3E3</color>
+    <color name="black">@android:color/black</color>
+</resources>

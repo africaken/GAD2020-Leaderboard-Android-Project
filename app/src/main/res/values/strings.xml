@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="learning_hours">Learning Hours</string>
+    <string name="learner_name">Learner\'s Name</string>
+    <string name="learner_country">Learner\'s Country</string>
+    <string name="learning_badge">Learning Badge</string>
+    <string name="skill_score">Learner\'s Skill Score</string>
+    <string name="skill_badge">Skill Badge</string>
+    <string name="connection_absent">No Internet Connection</string>
+    <string name="top_learner_absent">No Top Learner found</string>
+    <string name="learning_statement">" learning hours, "</string>
+    <string name="first_name">"First Name"</string>
+    <string name="last_name">"Last Name"</string>
+    <string name="email">"Email Address"</string>
+    <string name="web_address">"Project on GITHUB (Link)"</string>
+    <string name="submit">"Submit"</string>
+    <string name="project_submission">Project Submission</string>
+</resources>
